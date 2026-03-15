@@ -1,0 +1,8 @@
+Flask
+requests
+moviepy
+gTTS
+Pillow
+google-generativeai
+wikipedia
+gunicorn
