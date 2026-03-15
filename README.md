@@ -264,5 +264,16 @@ If this project helped you, please give it a ⭐️!
 
 **Made with ❤️ for Content Creators by Prithwiraj Das**
 
+<p align="center">
+
+<a href="https://youtube.com/@official_coding_concepts">
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://github.com/prithwiraj84">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
